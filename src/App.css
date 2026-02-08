@@ -114,7 +114,14 @@ button{
     border:2px solid  #4CAF50;
 }
 
-
+.test_javoblari_card_1{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+.test_javoblari_card_1 input{
+    padding: 20px;
+}
 
 /* Yakunlash_btn */
 .yakunlash_btn{
