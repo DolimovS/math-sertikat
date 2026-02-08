@@ -36,7 +36,7 @@ const App = () => {
     } catch (err) {
       console.error(err);
       alert("Xatolik yuz berdi");
-      setStep(2);
+      // setStep(2);
     }
   };
 
